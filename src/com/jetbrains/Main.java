@@ -6,6 +6,6 @@ public class Main {
 	// write your code here
 
         //changed some code
-
+        System.out.printf("Hey there");
     }
 }
